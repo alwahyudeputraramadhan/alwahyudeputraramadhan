@@ -19,9 +19,4 @@ public class ModApp extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-        // Tambahkan kode modifikasi disini
-        Toast.makeText(this, "Aplikasi mod telah diaktifkan!", Toast.LENGTH_SHORT).show();
-    }
-}
+        setContentView(R.layout.
